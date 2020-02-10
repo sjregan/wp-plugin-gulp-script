@@ -1,0 +1,22 @@
+{
+  "name": "wp-plugin-gulp-script",
+  "title": "WP Plugin Gulp Script",
+  "version": "1.0.0",
+  "homepage": "https://wearezipline.com",
+  "main": "gulpfile.js",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "debug": "^4.1.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-filter": "^6.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.1.0",
+    "gulp-uglifycss": "^1.0.4"
+  }
+}
